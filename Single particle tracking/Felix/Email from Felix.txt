@@ -1,0 +1,40 @@
+Hey Yale...
+
+So I finshed a new version of the tracking software, now called FIESTA! If your lab is still using the software, it would be nice if your lab could test it too, so I can remove bugs that don't show up with our data.
+
+What's new:
+- Better interface: mouse selection (using shift and control to select more than one track) plus dragging a region to select tracks (adding with control)
+- New zooming and panning using the scroll wheel (zoom) and scroll button (pan)
+- Create kymographs that include the tracks
+- Fast exporting of movies, including time, scale, tracks and even current position plus track name
+- Two new models for molecule tracking
+- Better skeletization of filaments
+- new statistics tools
+- Mac compatible
+- Installation in any folder and no interfence on the MatLab path
+- Easy installation of a tracking server (if available)
+
+The FIESTA online installation and update is now password protected!
+Your authentication - Username: GoldmanLab Password: pmiresearch
+
+Installation guide:
+copy fiesta.m to folder where FIESTA should be installed
+run fiesta.m (either via command path or MatLab context menu "run")
+follow instructions
+
+I also attached a shortcut to the function, where you only need to change the path of MatLab and the folder of fiesta.m
+
+
+Please report any bugs and feedback would be very much appreciated!
+
+
+-- Felix Ruhnow
+DiezLab
+
+Max Planck Institute of Molecular Cell Biology and Genetics
+Pfotenhauerstrasse 108
+01307 Dresden
+Germany
+
++49-351-210-2610
+ruhnow@mpi-cbg.de
